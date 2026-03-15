@@ -54,3 +54,13 @@ pip install -r requirements.txt
 
 python app.py
 
+#Future Improvement
+• Add authentication with JWT
+• Implement role-based access control
+• Add student–faculty communication module
+• Improve UI with modern frameworks
+
+
+#Author
+Muhammad Hashir
+Computer Science Student
